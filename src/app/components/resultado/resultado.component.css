@@ -1,0 +1,47 @@
+.fondoItem{
+    background-color: #ff111328;
+    height: 430px;
+    margin-top: 20px;
+    border-radius: 20px;
+    color: white;
+}
+
+.btn-color{
+    background-color: rgb(110, 93, 90);
+    width: 100%;
+    border-color: thistle;
+    border-radius: 10px;
+}
+
+.btn-color:hover{
+    background-color: rgb(68, 44, 44);
+    color: white;
+}
+
+.resultadoEstilo{
+    font-size: 18px;
+    color: #12bd45;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.resultado2{
+    font-size: 18px;
+    color: rgb(161, 20, 20);
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.estiloNumero{
+ font-size: 80px;
+ font-weight: 700;
+ padding-top: 25px;
+ padding-bottom: 45px;
+}
+
+.interpretacion{
+    margin: 10px;
+    font-size: 18px;
+    color: white;
+    text-align: center;
+}

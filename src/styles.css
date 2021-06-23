@@ -1,0 +1,30 @@
+/* You can add global styles to this file, and also import other style files */
+
+.body {
+background-color: rgb(12, 30, 36);
+}
+
+.titulo{
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+    margin-top: 25px;
+    color: white;
+}
+
+.row{
+    margin: 10px;
+}
+
+
+
+
+
+
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
